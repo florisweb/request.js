@@ -1,2 +1,2 @@
 # request.js
-A javascript library for handeling xhttp requests
+A javascript script for handeling xhttp requests
